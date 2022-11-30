@@ -1,9 +1,9 @@
-||1004cute.com
-||185.230.138.39
-||210u.com
-||292539.com
-||52kanjav.com
-||allman20.net
+||1004cute.com^
+||185.230.138.39^
+||210u.com^
+||292539.com^
+||52kanjav.com^
+||allman20.net^
 ||alomb.com^
 ||avlucky.com^
 ||avsee.in^
@@ -80,3 +80,4 @@
 ||yyaa111.com^
 ||zeedav.com^
 ||zhangliaotv.com^
+
