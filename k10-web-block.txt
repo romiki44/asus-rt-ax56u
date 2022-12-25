@@ -48,6 +48,34 @@
 @@||b-cdn.net
 @@||themoviedb.org
 
-# Custom
+#Custom
 ||archive.org^
+
+#k9-keywords
+||*bioskop*
+||*bokep*
+||*boscinema*
+||*filmdewasa*
+||*filmindo*
+||*filmsemi*
+||*jepang*
+||*lonteku*
+||*massage*
 ||*movie*
+||*nonton*
+||*phim*
+||*putlocker*
+||*rajabasah*
+||*semikeren*
+||*sogirl*
+||*yadong*
+||avsubthai*
+||dutafilm*
+||jusopang*
+||pinkbo*
+||tokyo*
+||xn*
+||xvid*
+||yapang*
+||yelaixiang*
+
