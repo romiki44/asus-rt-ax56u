@@ -14,8 +14,6 @@
 @@||star.c10r.facebook.com
 @@||web.facebook.com
 @@||zoom.us^$important
-#skslovan.com
-@@||b-cdn.net
 
 # Porn
 #
@@ -45,6 +43,11 @@
 ||*sexfilms*
 ||*lesbians*
 
+
+#skslovan.com
+@@||b-cdn.net
+@@||themoviedb.org
+
 # Custom
 ||archive.org^
-
+||*movie*
