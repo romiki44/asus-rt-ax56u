@@ -50,6 +50,7 @@
 
 #Custom
 ||archive.org^
+||oikanya.com^
 
 #k9-keywords
 ||*bioskop*
