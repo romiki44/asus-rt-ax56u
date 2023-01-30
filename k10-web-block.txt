@@ -51,6 +51,8 @@
 #Custom
 ||archive.org^
 ||oikanya.com^
+||miyueav*.com^
+||thtl.net^
 
 #k9-keywords
 ||*bioskop*
