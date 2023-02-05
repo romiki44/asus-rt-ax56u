@@ -53,6 +53,10 @@
 ||oikanya.com^
 ||miyueav*.com^
 ||thtl.net^
+||mudvod.tv^
+||jpdmv.com^
+||seeautumn.com^
+||hatsmoke.com^
 
 #k9-keywords
 ||*bioskop*
