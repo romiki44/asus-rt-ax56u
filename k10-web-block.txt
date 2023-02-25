@@ -57,6 +57,7 @@
 ||jpdmv.com^
 ||seeautumn.com^
 ||hatsmoke.com^
+||52papa.sbs^
 
 #k9-keywords
 ||*bioskop*
